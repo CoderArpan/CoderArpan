@@ -4,13 +4,13 @@
 
 ## 👋 About Me
 
-Hi! I'm [Your Name], a [Your Profession] based in [Your Location]. I am passionate about [Your Interests or Specialties]. I love to create, contribute, and collaborate on open-source projects.
+Hi! I'm [Arpan khan], a [Software developer] based in [India]. I am passionate about [Web-development and andriod development]. I love to create, contribute, and collaborate on open-source projects.
 
 - 🔭 I’m currently working on [Current Project]
 - 🌱 I’m currently learning [Current Learning Focus]
 - 💬 Ask me about [Topics you are interested in]
-- 📫 How to reach me: [Your Email] or [Your LinkedIn]
-- ⚡ Fun fact: [An interesting fact about you]
+- 📫 How to reach me: [My main] or [Myr LinkedIn]
+- ⚡ Fun fact: [I can solve a Rubik's Cube in under a minute!]
 
 ## 🛠️ Technologies & Tools
 
@@ -27,8 +27,8 @@ Hi! I'm [Your Name], a [Your Profession] based in [Your Location]. I am passiona
 
 Feel free to reach out to me through any of the platforms below:
 
-- Email: [your.email@example.com](mailto:arpankhan096@gmail.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/arpan-khan-x-d-0867312b0/)
+- Email: [My mail](mailto:arpankhan096@gmail.com)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/arpan-khan-x-d-0867312b0/)
 
 
 ---
