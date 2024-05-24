@@ -1,6 +1,6 @@
-# Welcome to [Your Name]'s GitHub!
+# Welcome to [Arpan khan]'s GitHub!
 
-![Profile Banner](https://your-banner-url.com/banner.png)
+![Profile Banner](https://avatars.githubusercontent.com/u/140335451?v=4)
 
 ## 👋 About Me
 
