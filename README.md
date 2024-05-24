@@ -21,32 +21,16 @@ Hi! I'm [Your Name], a [Your Profession] based in [Your Location]. I am passiona
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 
-## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-## 📂 Featured Projects
-
-### [Project 1: Project Name](https://github.com/your-github-username/project-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-name&theme=radical)](https://github.com/your-github-username/project-name)
-- Description: Brief description of the project.
-- Tech Stack: [Languages, Tools, Frameworks]
-
-### [Project 2: Project Name](https://github.com/your-github-username/project-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-name&theme=radical)](https://github.com/your-github-username/project-name)
-- Description: Brief description of the project.
-- Tech Stack: [Languages, Tools, Frameworks]
 
 ## 📬 Contact
 
 Feel free to reach out to me through any of the platforms below:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- Twitter: [Your Twitter](https://twitter.com/your-twitter)
-- Personal Website: [your-website.com](https://your-website.com)
+- Email: [your.email@example.com](mailto:arpankhan096@gmail.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/arpan-khan-x-d-0867312b0/)
+
 
 ---
 
-⭐️ From [Your GitHub Username](https://github.com/your-github-username)
+⭐️ From [Your GitHub Username](https://github.com/CoderArpan)
