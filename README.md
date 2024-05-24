@@ -8,8 +8,18 @@ Hi! I'm [Arpan khan], a [Software developer] based in [India]. I am passionate a
 
 - 🔭 I’m currently working on [Current Project]
 - 🌱 I’m currently learning [Current Learning Focus]
-- 💬 Ask me about [Topics you are interested in]
-- 📫 How to reach me: [My main] or [Myr LinkedIn]
+- 💬 Ask me about [
+- 💬 Ask me about my latest machine learning project
+💬 Ask me about developing scalable web applications
+💬 Ask me about contributing to open-source projects
+💬 Ask me about building interactive user interfaces with React
+💬 Ask me about automating workflows with Python
+💬 Ask me about containerizing applications with Docker
+💬 Ask me about setting up CI/CD pipelines
+💬 Ask me about best practices in software development
+💬 Ask me about cloud computing with AWS
+]
+- 📫 How to reach me: [My mail] or [My LinkedIn]
 - ⚡ Fun fact: [I can solve a Rubik's Cube in under a minute!]
 
 ## 🛠️ Technologies & Tools
