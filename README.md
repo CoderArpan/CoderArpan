@@ -1,4 +1,4 @@
-# Welcome to [Arpan khan]'s GitHub!
+# Welcome to Arpan khan's GitHub!
 
 ![Profile Banner](https://avatars.githubusercontent.com/u/140335451?v=4)
 
