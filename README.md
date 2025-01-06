@@ -6,8 +6,8 @@
 
 Hi! I'm [Arpan khan], a [Software developer] based in [India]. I am passionate about [Web-development and andriod development]. I love to create, contribute, and collaborate on open-source projects.
 
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [Current Learning Focus]
+- 🔭 I’m currently working on a payment gateway
+- 🌱 I’m currently learning Go and Angular
 - 💬 Ask me about [
 - 💬 Ask me about my latest machine learning project
 💬 Ask me about developing scalable web applications
