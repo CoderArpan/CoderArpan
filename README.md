@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-Hi! I'm [Arpan khan], a [Software developer] based in [India]. I am passionate about [Web-development and andriod development]. I love to create, contribute, and collaborate on open-source projects.
+Hi! I'm Arpan khan, a Software developer based in India. I am passionate about Web-development and andriod development. I love to create, contribute, and collaborate on open-source projects.
 
 - 🔭 I’m currently working on a payment gateway
 - 🌱 I’m currently learning Go and Angular
