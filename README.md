@@ -1,46 +1,76 @@
-# Welcome to Arpan khan's GitHub!
+<h1 align="center">Hi 👋, I'm Arpan Khan</h1>
+<h3 align="center">🚀 Software Developer | Web & Android Enthusiast</h3>
 
-![Profile Banner](https://avatars.githubusercontent.com/u/140335451?v=4)
-
-## 👋 About Me
-
-Hi! I'm Arpan khan, a Software developer based in India. I am passionate about Web-development and andriod development. I love to create, contribute, and collaborate on open-source projects.
-
-- 🔭 I’m currently working on a payment gateway
-- 🌱 I’m currently learning Go and Angular
-- 💬 Ask me about [
-- 💬 Ask me about my latest machine learning project
-💬 Ask me about developing scalable web applications
-💬 Ask me about contributing to open-source projects
-💬 Ask me about building interactive user interfaces with React
-💬 Ask me about automating workflows with Python
-💬 Ask me about containerizing applications with Docker
-💬 Ask me about setting up CI/CD pipelines
-💬 Ask me about best practices in software development
-💬 Ask me about cloud computing with AWS
-]
-- 📫 How to reach me: [My mail] or [My LinkedIn]
-- ⚡ Fun fact: [I can solve a Rubik's Cube in under a minute!]
-
-## 🛠️ Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
-
-
-
-## 📬 Contact
-
-Feel free to reach out to me through any of the platforms below:
-
-- Email: [My mail](mailto:arpankhan096@gmail.com)
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/arpan-khan-x-d-0867312b0/)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Apps;Always+Learning+New+Tech&center=true&width=500&height=50">
+</p>
 
 ---
 
-⭐️ From [Arpan khan](https://github.com/CoderArpan)
+## 👨‍💻 About Me
+
+✨ Passionate developer from India  
+💡 I love building real-world projects and solving problems  
+🤝 Open to collaboration & open-source contributions  
+
+- 🔭 Currently working on **Payment Gateway System**
+- 🌱 Learning **Go** & **Angular**
+- ⚡ Fun fact: I can solve a **Rubik's Cube in under a minute! 🧠**
+
+---
+
+## 💬 Ask Me About
+
+- 🧠 Machine Learning Projects  
+- 🌐 Scalable Web Applications  
+- ⚛️ React & Interactive UI  
+- 🐍 Python Automation  
+- 🐳 Docker & Containerization  
+- ☁️ AWS & Cloud Computing  
+- ⚙️ CI/CD Pipelines  
+- 🧑‍💻 Open Source Contributions  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,react,docker,aws,go,angular" />
+</p>
+
+---
+
+## 🚀 Featured Focus
+
+🔥 Building high-performance backend systems  
+⚡ Creating smooth & responsive frontends  
+🔐 Working on secure payment integrations  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **yourmail@example.com**  
+💼 LinkedIn: **your-linkedin-link**
+
+---
+
+## ⭐ Quote I Believe In
+
+> "Code. Create. Contribute. Repeat."
+
+---
+
+<p align="center">
+  ⭐️ From <b>Arpan Khan</b>
+</p>
