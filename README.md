@@ -60,8 +60,8 @@
 
 ## 📫 Connect With Me
 
-📧 Email: **yourmail@example.com**  
-💼 LinkedIn: **your-linkedin-link**
+📧 Email: **arpankhan096@gmail.com*  
+
 
 ---
 
